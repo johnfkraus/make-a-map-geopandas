@@ -6,8 +6,9 @@ To reproduce the results from the tutorial, it was necessary copy the files from
 https://github.com/maczokni/crimeMapTest
 into the data directory.
 
+Now the code in the Jupyter notebook runs as advertised.
 
-JK tried this, but it didn't work:
+JK also tried this, but it didn't work:
 SHAPE_RESTORE_SHX=YES fio info London_Borough_Excluding_MHW.shp 
 
 <hr />
